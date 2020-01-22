@@ -47,5 +47,6 @@ public class test {
             System.out.print(t.arr[i]);
             System.out.print(",");
         }
+        System.out.println();
     }
 }
